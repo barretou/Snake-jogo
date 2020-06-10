@@ -1,0 +1,10 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex; /*flexibiliza os componentes da tela*/
+    justify-content: center;/*alinha no centro na horizontal*/
+    align-items: center;/*alinha no centro na vertical*/
+    flex-direction: column;
+    color: greenyellow;/*cor do titulo*/
+    background-color: indigo;/*cor de fundo do body*/
+}
